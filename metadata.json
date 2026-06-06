@@ -1,0 +1,6 @@
+{
+  "name": "OPBR Assistant by MedoIQ",
+  "description": "Comprehensive guide, news, and community app for One Piece Bounty Rush.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
